@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #80e5c0, #99b9ff);
+    background-attachment: fixed;
+    background-repeat: no-repeat;   /* Geen herhaling */
+    background-size: cover;         /* Volledige achtergrond vullen */
+
+    color: #222;
+    padding: 2.5rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.25rem;
+    color: #0066cc;
+    margin-bottom: 1.25rem;
+}
+
+p {
+    font-size: 1.125rem;
+    padding: .675rem 1.25rem;
+    display: inline-block;
+    margin-top: .675rem;
+}

@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ccccfb;
+    text-align: center;
+    margin-top: 6.25rem;
+}
+
+.kaart {
+    display: inline-block;
+    padding: 2.5rem;
+    border-radius: .75rem;
+    background-color: #fff;
+    box-shadow: 0 .25rem .75rem rgba(0,0,0,0.15);
+    min-width: 35%;
+}
+
+h1 {
+    color: #2a7ae2;
+}
+
+p {
+    font-size: 1.125rem;
+    color: #333;
+}
